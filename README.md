@@ -1,6 +1,6 @@
 # Clinician preference review (draft)
 
-Private development snapshot. Clinical datasets, exported workbooks, review history and credentials are excluded from this repository. The app requires an authorized local `data/examples.json` bundle before startup. It is not a hosted service.
+Draft development snapshot. This public repository contains source code only. Clinical datasets, exported workbooks, review history and credentials are excluded from this repository. The app requires an authorized local `data/examples.json` bundle before startup. It is not a hosted service.
 
 Use Python 3.11+ and Node.js 18+ for the optional UI checks. Install the Python dependencies and start the local server:
 
